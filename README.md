@@ -6,6 +6,7 @@
 ---
 
 ### 🧠 About Me
+- 💻 Working as a Research Assistant at Uniklinikum Bonn.
 - 🎓 Pursuing Master's in Life Science Informatics
 - 🎓 **Background:** Bachelor's in **Biomedical Engineering**  
 - 🧬 Currently exploring: **Deep Learning for Medical Imaging**  
