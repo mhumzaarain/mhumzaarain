@@ -6,6 +6,7 @@
 ---
 
 ### 🧠 About Me
+- 🎓 Pursuing Master's in Life Science Informatics
 - 🎓 **Background:** Bachelor's in **Biomedical Engineering**  
 - 🧬 Currently exploring: **Deep Learning for Medical Imaging**  
 - 💻 Proficient in: **Python**, **Data Analysis**, **Image Processing**, and **Scientific Computing**  
@@ -28,7 +29,6 @@
 
 ### 📊 GitHub Analytics
 ![mhumzaarain GitHub stats](https://github-readme-stats.vercel.app/api?username=mhumzaarain&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhumzaarain&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mhumzaarain&theme=tokyonight&hide_border=true)
 
 
