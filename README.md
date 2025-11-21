@@ -1,16 +1,13 @@
-# 👋 Hi,
+#  Hi,
 
-💡 I’m passionate about **Machine Learning**, **Visual Computing**, and **Medical Image Analysis** combining medicine, computation, and data to advance healthcare innovation.  
+ I’m passionate about **Machine Learning**, **Visual Computing**, and **Medical Image Analysis** combining medicine, computation, and data to advance healthcare innovation.  
 
 ---
 
-### 🧠 About Me
-- 💻 Working as a Research Assistant at Uniklinikum Bonn.
-- 🎓 Pursuing Master's in Life Science Informatics
-- 🎓 **Background:** Bachelor's in **Biomedical Engineering**  
-- 🧬 Currently exploring: **Deep Learning for Medical Imaging**  
-- 💻 Proficient in: **Python**, **Data Analysis**, **Image Processing**, and **Scientific Computing**  
-- 🤝 Open to collaborations in **AI for healthcare**, **medical imaging research**, and **data-driven life sciences**
+###  About Me  
+-  Currently exploring: **Deep Learning for Medical Imaging**  
+-  Proficient in: **Python**, **Data Analysis**, **Image Processing**, and **Scientific Computing**  
+-  Open to collaborations in **AI for healthcare**, **medical imaging research**, and **data-driven life sciences**
 
 ---
 
