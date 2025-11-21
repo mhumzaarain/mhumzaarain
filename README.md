@@ -1,6 +1,5 @@
 # 👋 Hi,
 
-🎓 I’m currently pursuing my **Master’s in Life Science Informatics** at the University of Bonn and working as a **Research Assistant** at **Uniklinikum Bonn**.  
 💡 I’m passionate about **Machine Learning**, **Visual Computing**, and **Medical Image Analysis** — combining medicine, computation, and data to advance healthcare innovation.  
 
 ---
