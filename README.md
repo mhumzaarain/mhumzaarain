@@ -27,7 +27,6 @@
 ---
 
 ### 📊 GitHub Analytics
-![mhumzaarain GitHub stats](https://github-readme-stats.vercel.app/api?username=mhumzaarain&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mhumzaarain&theme=tokyonight&hide_border=true)
 
 
