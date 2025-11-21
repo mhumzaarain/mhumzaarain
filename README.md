@@ -17,14 +17,13 @@
 
 ### ⚙️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=flat&logo=plotly)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 ---
 
@@ -35,8 +34,6 @@
 
 ---
 
-### 💬 Quote I Live By
-> *"Data is the new microscope — revealing patterns and insights invisible to the naked eye."* 🔬
 
 
 
