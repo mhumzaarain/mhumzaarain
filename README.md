@@ -1,6 +1,6 @@
 # 👋 Hi,
 
-💡 I’m passionate about **Machine Learning**, **Visual Computing**, and **Medical Image Analysis** — combining medicine, computation, and data to advance healthcare innovation.  
+💡 I’m passionate about **Machine Learning**, **Visual Computing**, and **Medical Image Analysis** combining medicine, computation, and data to advance healthcare innovation.  
 
 ---
 
