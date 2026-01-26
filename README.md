@@ -3,14 +3,6 @@ I am Muhammad Humza, I did my Bachelor's in Biomedical Engineering and now I am 
 
 I like to work on projects related to health-care, wheather it be data related analysis, machine learning, medical image analysis or making apps or websites for healthcare related field. 
  
-
----
-
-###  About Me  
--  Currently exploring: **Deep Learning for Medical Imaging**  
--  Proficient in: **Python**, **Data Analysis**, **Image Processing**, and **Scientific Computing**  
--  Open to collaborations in **AI for healthcare**, **medical imaging research**, and **data-driven life sciences**
-
 ---
 
 ### ⚙️ Tech Stack & Tools
