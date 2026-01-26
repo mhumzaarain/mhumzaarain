@@ -1,6 +1,8 @@
-#  Hi,
+#  Hi, 
+I am Muhammad Humza, I did my Bachelor's in Biomedical Engineering and now I am doing my Masters in Life Science Informatics. 
 
- I’m passionate about **Machine Learning**, **Visual Computing**, and **Medical Image Analysis** , combining medicine, computation, and data to advance healthcare innovation.  
+I like to work on projects related to health-care, wheather it be data related analysis, machine learning, medical image analysis or making apps or websites for healthcare related field. 
+ 
 
 ---
 
