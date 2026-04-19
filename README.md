@@ -2,7 +2,7 @@
 
 Biomedical Engineer pursuing an MSc in Life Science Informatics at the University of Bonn. Currently a Research Assistant at University Hospital Bonn, where I contribute to open-source radiology software, build automated test suites, and process medical imaging data for clinical research.
 
-My background spans nearly five years of clinical engineering — maintaining radiological and life-support systems at the National Institute of Cardiovascular Diseases (NICVD) — and a growing focus on AI-driven medical imaging and research software development.
+My background spans nearly five years in clinical engineering, maintaining radiological and life-support systems at the National Institute of Cardiovascular Diseases (NICVD), with a growing focus on AI-driven medical imaging and research software development.
 
 ---
 
