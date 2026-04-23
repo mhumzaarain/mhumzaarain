@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Humza Arain 👋
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZwdDk0OGdhamxldDVvNDEwOW9reDZpZzJycjQzbTI0ZzNzOTQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200" alt="Loop Glitch" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZwdDk0OGdhamxldDVvNDEwOW9reDZpZzJycjQzbTI0ZzNzOTQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100" alt="Loop Glitch" />
 </p>
 
 <p align="center">
