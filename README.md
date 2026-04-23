@@ -1,4 +1,18 @@
-# Hi, I'm Muhammad Humza Arain
+# Hi, I'm Muhammad Humza Arain 👋
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZwdDk0OGdhamxldDVvNDEwOW9reDZpZzJycjQzbTI0ZzNzOTQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="200" alt="Loop Glitch" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4169E1&center=true&vCenter=true&width=800&lines=Biomedical+Engineer+%7C+MSc+Life+Science+Informatics;Research+Assistant+%40+University+Hospital+Bonn;Medical+Imaging+%26+DICOM+Specialist;Open-Source+Contributor+%E2%80%94+openradx;AI-Driven+Diagnostics+%26+Research+Software+Engineering" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhumzaarain&label=Profile%20views&color=4169E1&style=flat" alt="Profile views" />
+</p>
+
+---
 
 Biomedical Engineer pursuing an MSc in Life Science Informatics at the University of Bonn. Currently a Research Assistant at University Hospital Bonn, where I contribute to open-source radiology software, build automated test suites, and process medical imaging data for clinical research.
 
